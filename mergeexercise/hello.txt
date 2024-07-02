@@ -1,4 +1,5 @@
 Hello World
 merging using fast forward merge
 trying adding new texts for main branch
-this is conflicting content on main branch
+This will cause a conflict
+This is conflicting content on master
